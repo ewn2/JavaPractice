@@ -25,7 +25,7 @@ public class TicTacToe {
 
             // Loop through columns
             for (int j = 0; j < 3; j++) {
-                board[i][j] = '-';
+                board[i][j] = ' ';
             }
         }
     }
